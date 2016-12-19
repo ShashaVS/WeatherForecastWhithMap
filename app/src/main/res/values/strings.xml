@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Weather Forecast whith Map</string>
+    <string name="APIKEY">apikey from openweathermap.org</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">google maps key</string>
+
+    <string name="city">City:</string>
+    <string name="time">Date and Time:</string>
+    <string name="temperature">Temperature:</string>
+    <string name="wind">Wind:</string>
+    <string name="pressure">Atmospheric pressure:</string>
+    <string name="description">Weather Description:</string>
+
+    <string name="error_msg">Unable to get data from the server!</string>
+    <string name="success_msg">Server Data obtained successfully!</string>
+
+</resources>
